@@ -1,0 +1,14 @@
+/* src/components/css/Portfolio.css */
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
